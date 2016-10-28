@@ -10,12 +10,13 @@ Reference:
 
 # Usage:
 
-ruby bigip.rb [BIG-IP COOKIE VALUE]
+:~$ ruby bigip.rb [BIG-IP COOKIE VALUE]
 
 # Example:
 
-ruby bigip.rb 1677787402.36895.0000
+:~$ ruby bigip.rb 1677787402.36895.0000
 
+Local IP address found:
 
 IP Address : 10.33.70.12
 
