@@ -10,7 +10,7 @@ Reference:
 
 # Usage:
 
-guest@hostname:~$ ruby bigip.rb [BIG-IP COOKIE VALUE]
+ruby bigip.rb [BIG-IP COOKIE VALUE]
 
 # Example:
 
