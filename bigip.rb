@@ -14,13 +14,13 @@ Reference:
 
 begin
 
-	cookie		 = ARGV[0].split(".") 
+	cookie	     = ARGV[0].split(".") 
 	encoded_ip   = cookie[0].to_i
 	encoded_port = cookie[1].to_i
 
 	begin
 
-		ip 		= []
+		ip 	= []
 		port 	= []
 
 		4.times do
