@@ -8,14 +8,13 @@ Reference:
 
 * https://support.f5.com/kb/en-us/solutions/public/6000/900/sol6917.html
 
-
 # Usage:
 
-   ruby bigip.rb [BIG-IP COOKIE VALUE]
+ruby bigip.rb [BIG-IP COOKIE VALUE]
 
 # Example:
 
-   ruby bigip.rb 1677787402.36895.0000
+ruby bigip.rb 1677787402.36895.0000
 
-   IP Address : 10.33.70.12
-   Port       : 443
+IP Address : 10.33.70.12
+Port       : 443
