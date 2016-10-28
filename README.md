@@ -18,4 +18,4 @@ Reference:
    ruby bigip.rb 1677787402.36895.0000
 
    IP Address : 10.33.70.12
-   Port       : 443"
+   Port       : 443
