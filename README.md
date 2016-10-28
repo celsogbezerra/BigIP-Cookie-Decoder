@@ -13,7 +13,7 @@ Reference:
 
    ruby bigip.rb [BIG-IP COOKIE VALUE]
 
-Example:
+# Example:
 
    ruby bigip.rb 1677787402.36895.0000
 
