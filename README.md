@@ -1,6 +1,5 @@
-# BigIP-Cookie-Decoder
+# BigIP Cookie Decoder
 
-\
 The BIG-IP system inserts a cookie into the HTTP response, by default, is named BIGipServer<pool_name> and the cookie value contains the encoded IP address and port of the destination server.
 
 This behavior can cause disclose local IP address of Web Server.
