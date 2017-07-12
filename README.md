@@ -10,7 +10,7 @@ Reference:
 
 # Usage:
 
-ruby bigip.rb [\-h] [\-u URL_TARGET] [\-d BIGIP_COOKIE_VALUE]
+ruby bigip.rb [-h] [-u URL_TARGET] [-d BIGIP_COOKIE_VALUE]
 
 # Options:
 
