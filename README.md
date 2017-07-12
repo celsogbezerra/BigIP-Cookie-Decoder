@@ -10,13 +10,13 @@ Reference:
 
 # Usage:
 
-  ruby bigip.rb [-h] [-u URL_TARGET] [-d BIGIP_COOKIE_VALUE]
+ruby bigip.rb [-h] [-u URL_TARGET] [-d BIGIP_COOKIE_VALUE]
 
 # Options:
 
-  -d    Decode the cookie value.
-  -h    Print a summary of the usage.
-  -u    Get the BIGip value in target and decode.
+-d    Decode the cookie value.
+-h    Print a summary of the usage.
+-u    Get the BIGip value in target and decode.
 
 # Examples:
 
